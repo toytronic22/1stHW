@@ -16,7 +16,7 @@ import static com.codeborne.selenide.Condition.*;
 
 public class HomeWork {
     @Test
-    void SearchSoftAssertions () {
+    void searchSoftAssertions () {
     //Откройте страницу Selenide в Github
         open("https://github.com/selenide/selenide");
     // Перейдите в раздел Wiki проекта
